@@ -46,6 +46,7 @@
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
    <value key="QtVersionId" type="int" >0</value>
    <value key="addQDumper" type="" ></value>
+   <value key="buildDirectory" type="QString" >/home/antti/code/qt/fitnessCard</value>
   </valuemap>
  </data>
  <data>
@@ -61,7 +62,7 @@
   <valuemap type="QVariantMap" >
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList" >
-    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-rdc4xHW9Qs,guid=e904273ca82efd3990998e5a4b6a6f94</value>
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-WlfN7d9CXU,guid=06cc1278d171f6ffcde000664b74249d</value>
     <value type="QString" >DESKTOP_SESSION=gnome</value>
     <value type="QString" >DESKTOP_STARTUP_ID=</value>
     <value type="QString" >DISPLAY=:0.0</value>
@@ -69,41 +70,40 @@
     <value type="QString" >GDM_KEYBOARD_LAYOUT=fi</value>
     <value type="QString" >GDM_LANG=en_US.UTF-8</value>
     <value type="QString" >GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
-    <value type="QString" >GNOME_KEYRING_PID=1846</value>
-    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-Ij6brf/socket</value>
-    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-mh7wYs/S.gpg-agent:1938:1</value>
+    <value type="QString" >GNOME_KEYRING_PID=2003</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-PiLOO9/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-Oj9gSK/S.gpg-agent:2087:1</value>
     <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
-    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/tommi/.gtkrc-1.2-gnome2</value>
-    <value type="QString" >HOME=/home/tommi</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/antti/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/antti</value>
     <value type="QString" >LANG=en_US.UTF-8</value>
     <value type="QString" >LD_LIBRARY_PATH=/usr/lib/qtcreator:</value>
-    <value type="QString" >LIBGL_DRIVERS_PATH=/usr/lib/dri</value>
-    <value type="QString" >LOGNAME=tommi</value>
-    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-tommi</value>
-    <value type="QString" >PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
-    <value type="QString" >PWD=/home/tommi</value>
-    <value type="QString" >QTDIR=/usr</value>
-    <value type="QString" >SESSION_MANAGER=local/tommi:@/tmp/.ICE-unix/1869,unix/tommi:/tmp/.ICE-unix/1869</value>
+    <value type="QString" >LOGNAME=antti</value>
+    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-antti</value>
+    <value type="QString" >PATH=/home/antti/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/antti</value>
+    <value type="QString" >QTDIR=/home/antti/qtsdk-2009.03/qt</value>
+    <value type="QString" >SESSION_MANAGER=local/antti-development:@/tmp/.ICE-unix/2018,unix/antti-development:/tmp/.ICE-unix/2018</value>
     <value type="QString" >SHELL=/bin/bash</value>
     <value type="QString" >SPEECHD_PORT=7560</value>
-    <value type="QString" >SSH_AGENT_PID=1914</value>
-    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-Ij6brf/socket.ssh</value>
-    <value type="QString" >USER=tommi</value>
-    <value type="QString" >USERNAME=tommi</value>
-    <value type="QString" >XAUTHORITY=/var/run/gdm/auth-for-tommi-k2qZph/database</value>
+    <value type="QString" >SSH_AGENT_PID=2062</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-PiLOO9/socket.ssh</value>
+    <value type="QString" >USER=antti</value>
+    <value type="QString" >USERNAME=antti</value>
+    <value type="QString" >XAUTHORITY=/var/run/gdm/auth-for-antti-SQYHXM/database</value>
     <value type="QString" >XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
-    <value type="QString" >XDG_SESSION_COOKIE=c646e88caa79a36c4b1639344a534c9b-1265266580.101378-1972605479</value>
+    <value type="QString" >XDG_SESSION_COOKIE=18091393927eae9599b87dfa49b96685-1265902748.891284-1214282193</value>
    </valuelist>
    <valuelist key="abstractProcess.arguments" type="QVariantList" >
-    <value type="QString" >/home/tommi/code/qt/FitnessCard/FitnessCard.pro</value>
+    <value type="QString" >/home/antti/code/qt/fitnessCard/FitnessCard.pro</value>
     <value type="QString" >-spec</value>
-    <value type="QString" >/usr/share/qt4/mkspecs/linux-g++</value>
+    <value type="QString" >linux-g++</value>
     <value type="QString" >-r</value>
     <value type="QString" >CONFIG+=debug</value>
    </valuelist>
-   <value key="abstractProcess.command" type="QString" >/usr/bin/qmake-qt4</value>
-   <value key="abstractProcess.enabled" type="bool" >false</value>
-   <value key="abstractProcess.workingDirectory" type="QString" >/home/tommi/code/qt/FitnessCard</value>
+   <value key="abstractProcess.command" type="QString" >/home/antti/qtsdk-2009.03/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/antti/code/qt/fitnessCard</value>
    <value key="buildConfiguration" type="int" >2</value>
   </valuemap>
  </data>
@@ -112,7 +112,7 @@
   <valuemap type="QVariantMap" >
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList" >
-    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-rdc4xHW9Qs,guid=e904273ca82efd3990998e5a4b6a6f94</value>
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-WlfN7d9CXU,guid=06cc1278d171f6ffcde000664b74249d</value>
     <value type="QString" >DESKTOP_SESSION=gnome</value>
     <value type="QString" >DESKTOP_STARTUP_ID=</value>
     <value type="QString" >DISPLAY=:0.0</value>
@@ -120,37 +120,36 @@
     <value type="QString" >GDM_KEYBOARD_LAYOUT=fi</value>
     <value type="QString" >GDM_LANG=en_US.UTF-8</value>
     <value type="QString" >GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
-    <value type="QString" >GNOME_KEYRING_PID=1846</value>
-    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-Ij6brf/socket</value>
-    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-mh7wYs/S.gpg-agent:1938:1</value>
+    <value type="QString" >GNOME_KEYRING_PID=2003</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-PiLOO9/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-Oj9gSK/S.gpg-agent:2087:1</value>
     <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
-    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/tommi/.gtkrc-1.2-gnome2</value>
-    <value type="QString" >HOME=/home/tommi</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/antti/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/antti</value>
     <value type="QString" >LANG=en_US.UTF-8</value>
     <value type="QString" >LD_LIBRARY_PATH=/usr/lib/qtcreator:</value>
-    <value type="QString" >LIBGL_DRIVERS_PATH=/usr/lib/dri</value>
-    <value type="QString" >LOGNAME=tommi</value>
-    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-tommi</value>
-    <value type="QString" >PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
-    <value type="QString" >PWD=/home/tommi</value>
-    <value type="QString" >QTDIR=/usr</value>
-    <value type="QString" >SESSION_MANAGER=local/tommi:@/tmp/.ICE-unix/1869,unix/tommi:/tmp/.ICE-unix/1869</value>
+    <value type="QString" >LOGNAME=antti</value>
+    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-antti</value>
+    <value type="QString" >PATH=/home/antti/qtsdk-2009.03/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/antti</value>
+    <value type="QString" >QTDIR=/home/antti/qtsdk-2009.03/qt</value>
+    <value type="QString" >SESSION_MANAGER=local/antti-development:@/tmp/.ICE-unix/2018,unix/antti-development:/tmp/.ICE-unix/2018</value>
     <value type="QString" >SHELL=/bin/bash</value>
     <value type="QString" >SPEECHD_PORT=7560</value>
-    <value type="QString" >SSH_AGENT_PID=1914</value>
-    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-Ij6brf/socket.ssh</value>
-    <value type="QString" >USER=tommi</value>
-    <value type="QString" >USERNAME=tommi</value>
-    <value type="QString" >XAUTHORITY=/var/run/gdm/auth-for-tommi-k2qZph/database</value>
+    <value type="QString" >SSH_AGENT_PID=2062</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-PiLOO9/socket.ssh</value>
+    <value type="QString" >USER=antti</value>
+    <value type="QString" >USERNAME=antti</value>
+    <value type="QString" >XAUTHORITY=/var/run/gdm/auth-for-antti-SQYHXM/database</value>
     <value type="QString" >XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
-    <value type="QString" >XDG_SESSION_COOKIE=c646e88caa79a36c4b1639344a534c9b-1265266580.101378-1972605479</value>
+    <value type="QString" >XDG_SESSION_COOKIE=18091393927eae9599b87dfa49b96685-1265902748.891284-1214282193</value>
    </valuelist>
    <valuelist key="abstractProcess.arguments" type="QVariantList" >
     <value type="QString" >-w</value>
    </valuelist>
    <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
    <value key="abstractProcess.enabled" type="bool" >true</value>
-   <value key="abstractProcess.workingDirectory" type="QString" >/home/tommi/code/qt/FitnessCard</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/antti/code/qt/fitnessCard</value>
   </valuemap>
  </data>
  <data>

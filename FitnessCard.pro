@@ -5,7 +5,9 @@ TARGET = FitnessCard
 TEMPLATE = app
 SOURCES += main.cpp \
     fitnesscard.cpp \
-    exercisemodel.cpp
+    exercisemodel.cpp \
+    exercise.cpp
 HEADERS += fitnesscard.h \
-    exercisemodel.h
+    exercisemodel.h \
+    exercise.h
 FORMS += fitnesscard.ui
